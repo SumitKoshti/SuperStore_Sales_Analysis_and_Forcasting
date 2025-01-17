@@ -1,4 +1,4 @@
-# SuperStore-Sales-Forcasting
+# SuperStore_Sales_Analysis_and_Forcasting [Power BI Project]
 Objective:
 Develop an interactive Power BI dashboard integrating advanced time series analysis techniques to provide accurate sales forecasting and derive actionable insights for enhancing business success.
 
